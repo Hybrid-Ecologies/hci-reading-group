@@ -1,3 +1,6 @@
+---
+permalink: /reading-list/
+---
 # Fall 2018
 Date | Reading | Post
 ------------ | ------------- | -------------
