@@ -1,5 +1,5 @@
 ---
-layout: post
+theme: jekyll-theme-leap-day
 title:  "Welcome to Jekyll!"
 ---
 
