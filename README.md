@@ -6,7 +6,7 @@ This site serves as a repository of readings, discussions, and presentation slid
 The current reading list is available (here)[/reading-list]
 
 ## Acquiring and Organizing Readings
-* *Pay Wall *. Many research articles exist behind pay walls. As a UC Berkeley student, you have access to many of these articles, however, **you'll need to be accessing them Berkeley IP address**.
+* *Pay Wall*. Many research articles exist behind pay walls. As a UC Berkeley student, you have access to many of these articles, however, **you'll need to be accessing them Berkeley IP address**.
 * *Bibliography manager* Zotero or Mendeley are commonly used. Zotero offers a valuable Chrome plugin that allows you to download papers and metainformation from a single click. 
 
 ## Current Reading Group Members
