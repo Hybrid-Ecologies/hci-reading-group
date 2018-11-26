@@ -4,7 +4,7 @@
 This site serves as a repository of readings, discussions, and presentation slides. 
 
 ## Reading List
-The current reading list is available [here]
+The current reading list is available here.
 
 
 ## Acquiring and Organizing Readings
