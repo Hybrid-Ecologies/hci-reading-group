@@ -1,13 +1,11 @@
----
-current_list: "https://hybrid-ecologies.github.io/hci-reading-group/reading-list/"
----
+
 # Welcome to the HCI Reading Group
 
 This site serves as a repository of readings, discussions, and presentation slides. 
 
 ## Reading List
 The current reading list is available [here]
-{{page.current_list}}
+
 
 ## Acquiring and Organizing Readings
 * *Pay Wall*. Many research articles exist behind pay walls. As a UC Berkeley student, you have access to many of these articles, however, **you'll need to be accessing them Berkeley IP address**.
